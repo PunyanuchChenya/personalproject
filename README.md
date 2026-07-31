@@ -91,15 +91,15 @@ Analyzes customer behavior, payment methods, review scores, and delivery perform
 
 ### Executive Summary
 
-<img src="screenshots/dashboard1.png" width="1000">
+<img src="dashboard/dashboard1.png" width="1000">
 
 ### Sales & Product Analysis
 
-<img src="screenshots/dashboard2.png" width="1000">
+<img src="dashboard/dashboard2.png" width="1000">
 
 ### Customer & Delivery Analysis
 
-<img src="screenshots/dashboard3.png" width="1000">
+<img src="dashboard/dashboard3.png" width="1000">
 
 ---
 
