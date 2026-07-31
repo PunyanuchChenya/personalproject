@@ -121,7 +121,4 @@ brazilian-ecommerce-sales-analytics/
 
 ---
 
-## 👤 Author
-
-**Punyanuch**
 
